@@ -33,7 +33,7 @@
 
 	The MIT License
 
-	Copyright &copy; 2014 Sirajuddin Choudhary
+	Copyright &copy; 2014 Neha Damani
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
