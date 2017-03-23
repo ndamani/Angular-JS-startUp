@@ -1,6 +1,6 @@
 # Starter Application for creating awesome AngularJS apps 
 ---
-#### Kickstart AngularJS App with modular code, gulp, sass, karma and other support out of the box. [Try](http://sirajc.github.io/angularjs-starter)
+#### Kickstart AngularJS App with modular code, gulp, sass, karma and other support out of the box. 
 
 ### Tools and Technologies
 1. HTML
